@@ -51,6 +51,8 @@ img{
 }
 .show-navbar-collapse{
     transform: translateX(0);
+    padding-bottom: 100%;
+    width: 150px;
 }
 .nav-item{
     color: white;
@@ -70,7 +72,7 @@ img{
         height: auto;
         padding: 0;
         width: 100%;
-        background-color: transparent;
+        background-color: #27374D;
         transform: translateX(0);
         justify-content: flex-end;
     }
