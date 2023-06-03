@@ -2,6 +2,8 @@
     min-height: 80vh;
     background:#27374D;
     flex-direction: column;
+    position:relative;
+    z-index: -2;
     
 }
 .header-title{
@@ -13,6 +15,8 @@
     margin-bottom: 2.8rem;
     opacity: 0.8;
     max-width: 770px;
+    position:relative;
+    z-index: 0;
     
 }
 
