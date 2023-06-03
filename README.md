@@ -3,7 +3,7 @@
 
 Digiverse is a model digital library project that aims to provide an organized and user-friendly interface for users to explore a vast collection of books. This README file provides an overview of the project, its features, and instructions for running the application.
 
-#Technologies Used
+##Technologies Used
 
 ▪︎ HTML
 
@@ -14,7 +14,7 @@ Digiverse is a model digital library project that aims to provide an organized a
 ▪︎ Node.js
 
 
-#features
+##features
 
 Book Listing: The application allows users to view a list of books available in the Digiverse library.
 
